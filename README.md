@@ -106,7 +106,7 @@ print(OUT)
 
 # Things to Check Out
 - [QISKIT](https://github.com/QISKit)
-- Almaz Ahmad - [@SP1S5R](https://github.com/sp1d5r) (me)
+- Almaz Ahmad - [@SP1D5R](https://github.com/sp1d5r) (me)
 
 
 
