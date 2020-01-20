@@ -1,5 +1,4 @@
 # My Quantum Computing Repo
-=======================================================
 
 ## Why Does This Exist??
 - This exists because I wanted it to...
