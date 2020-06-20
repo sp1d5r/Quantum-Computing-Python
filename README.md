@@ -1,8 +1,9 @@
 # My Quantum Computing Repo
 
-## Why Does This Exist??
+## Why ?
 - This exists because I wanted it to...
 - It's to help people get a beginners drift of quantum programs using the [QISKIT](https://www.qiskit.org) Module from the [QISKIT Website](https://www.qiskit.org).
+- It also is just to try and help me get used to the format
 
 (I'm not brilliant at this so if there are any problems let me know.)
 
